@@ -1,0 +1,15 @@
+.autoAntiguo{
+    background-color: #fbff00
+}
+
+.btnAgregarFavorito{
+    border: 1px solid #b3b3b3;
+    border-radius: 10px;
+    padding: 3px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

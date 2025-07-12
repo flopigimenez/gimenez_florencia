@@ -1,0 +1,19 @@
+.filterContainer{
+    display: flex;
+    align-items: center;
+}
+
+.filterContainer p{
+    margin-right: 10px;
+}
+
+.tableAuto{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.tableHeader{
+    align-items: center;
+}
